@@ -1,1 +1,3 @@
-boto3
+azure-mgmt-consumption
+azure-mgmt-costmanagement
+azure-cli
